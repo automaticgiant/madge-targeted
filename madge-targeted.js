@@ -22,7 +22,7 @@ commander
   .parse(process.argv);
 
 if (!commander.src_dir||!commander.entry_point) {
-  console.error(commander);
+  // console.error(commander);
   console.error('Use your words (--help to get a list)');
   process.exit(1);
 }
