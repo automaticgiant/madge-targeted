@@ -1,6 +1,6 @@
 {
   "name": "madge-targeted",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "targets madge to decendents of a module",
   "dependencies": {
     "graphviz" : "",
@@ -12,5 +12,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hunter Morgan",
-  "license": "TBD"
+  "license": "GPLv3"
 }
