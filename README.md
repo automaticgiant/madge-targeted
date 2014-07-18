@@ -42,6 +42,7 @@ More stuff that maybe needs done:
 * support graphviz rendering
 * put issues in GitHub tracker
 * write tests
+* add automagic file output naming
 
 Maybe nice to haves:
 * build fancy-pants html-ized moving graphs with dependo

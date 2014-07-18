@@ -26,3 +26,11 @@ node_modules
 
 # Try to keep random output out
 *.dot
+*.svg
+*.pdf
+*.eps
+*.jpg
+*.png
+
+#not useful editor file
+*.sublime-workspace
